@@ -3,9 +3,7 @@
 > From Wikipedia:
 > 
 > An organizationally unique identifier (OUI) is a 24-bit number that uniquely identifies a vendor, manufacturer, or other organization.
-> 
-> OUIs are purchased from the Institute of Electrical and Electronics Engineers (IEEE) Registration Authority by the assignee (IEEE term for the vendor, manufacturer, or other organization). Only assignment from MA-L registry assigns new OUI. They are used to uniquely identify a particular piece of equipment through derived identifiers such as MAC addresses, Subnetwork Access Protocol protocol identifiers, World Wide Names for Fibre Channel devices or vendor blocks in EDID.
-> 
+> ...
 > In MAC addresses, the OUI is combined with a 24-bit number (assigned by the assignee of the OUI) to form the address. The first three octets of the address are the OUI.
 
 Convert `oui.txt` to `oui.json`.
