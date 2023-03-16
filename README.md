@@ -1,10 +1,8 @@
 # oui2json
 
-> From Wikipedia:
-> 
 > An organizationally unique identifier (OUI) is a 24-bit number that uniquely identifies a vendor, manufacturer, or other organization.
 > ...
-> In MAC addresses, the OUI is combined with a 24-bit number (assigned by the assignee of the OUI) to form the address. The first three octets of the address are the OUI.
+> In MAC addresses, the OUI is combined with a 24-bit number (assigned by the assignee of the OUI) to form the address. The first three octets of the address are the OUI. (From Wikipedia)
 
 Convert `oui.txt` to `oui.json`.
 
