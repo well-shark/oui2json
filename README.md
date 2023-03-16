@@ -10,7 +10,7 @@
 
 Convert `oui.txt` to `oui.json`.
 
-## Usage
+# Usage
 
 1. Download `oui.txt` from [IEEE Standards](https://standards-oui.ieee.org/oui/oui.txt).
 
@@ -28,23 +28,23 @@ OUI/MA-L                Organization
 company_id              Organization                                 
                         Address                                      
 
-FC-59-C0   (hex)		Arista Networks
-FC59C0     (base 16)	Arista Networks
-				        5453 Great America Parkway
-				        Santa Clara  CA  95054
+00-00-00   (hex)		XEROX CORPORATION
+000000     (base 16)	XEROX CORPORATION
+				        M/S 105-50C
+				        WEBSTER  NY  14580
 				        US
 
-64-1B-2F   (hex)		Samsung Electronics Co.,Ltd
-641B2F     (base 16)	Samsung Electronics Co.,Ltd
-				        #94-1, Imsoo-Dong
-				        Gumi  Gyeongbuk  730-350
-				        KR
+68-7F-74   (hex)		Cisco-Linksys, LLC
+687F74     (base 16)	Cisco-Linksys, LLC
+				        121 Theory Drive
+				        Irvine  California  92612
+				        US
 
-00-16-F6   (hex)		Nevion
-0016F6     (base 16)	Nevion
-				        Lysaker Torg 5 
-				        Lysaker    NO-1366
-				        NO
+68-7F-F0   (hex)		TP-Link Corporation Limited
+687FF0     (base 16)	TP-Link Corporation Limited
+				        Room 901,9/F.New East Ocean Centre, 9 Science Museum Road
+				        Tsim Sha Tsui  Kowloon  999077
+				        HK
 ...
 ```
 
