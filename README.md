@@ -44,7 +44,7 @@ company_id              Organization
 ...
 ```
 
-**out.json**
+**oui.json**
 ```json
 {
     "00:00:00": "XEROX CORPORATION",
