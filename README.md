@@ -24,23 +24,23 @@ OUI/MA-L                Organization
 company_id              Organization                                 
                         Address                                      
 
-00-00-00   (hex)		XEROX CORPORATION
-000000     (base 16)	XEROX CORPORATION
-				        M/S 105-50C
-				        WEBSTER  NY  14580
-				        US
+00-00-00   (hex)        XEROX CORPORATION
+000000     (base 16)    XEROX CORPORATION
+                        M/S 105-50C
+                        WEBSTER  NY  14580
+                        US
 
-68-7F-74   (hex)		Cisco-Linksys, LLC
-687F74     (base 16)	Cisco-Linksys, LLC
-				        121 Theory Drive
-				        Irvine  California  92612
-				        US
+68-7F-74   (hex)        Cisco-Linksys, LLC
+687F74     (base 16)    Cisco-Linksys, LLC
+                        121 Theory Drive
+                        Irvine  California  92612
+                        US
 
-68-7F-F0   (hex)		TP-Link Corporation Limited
-687FF0     (base 16)	TP-Link Corporation Limited
-				        Room 901,9/F.New East Ocean Centre, 9 Science Museum Road
-				        Tsim Sha Tsui  Kowloon  999077
-				        HK
+68-7F-F0   (hex)        TP-Link Corporation Limited
+687FF0     (base 16)    TP-Link Corporation Limited
+                        Room 901,9/F.New East Ocean Centre, 9 Science Museum Road
+                        Tsim Sha Tsui  Kowloon  999077
+                        HK
 ...
 ```
 
